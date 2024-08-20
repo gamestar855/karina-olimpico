@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  margin-left: 40rem;
+}
+
+.MedalTable table {
+  width: 60%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.MedalTable th, .MedalTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.Highlight img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.Sports ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.Sports li {
+  margin: 5px 0;
+  font-size: 1.2em;
+
+}
+
+
